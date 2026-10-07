@@ -143,29 +143,4 @@ Then open your browser at:
 }
 ```
 
----
 
-## 🎥 Video Presentation Script (For Interview Submission)
-
-When recording your demo video, follow this 7-step presentation flow:
-
-1. **Introduction (10s)**:
-   > *"Hi, this is my Employee Task Management Dashboard built with React, Node.js, Express, and MongoDB."*
-
-2. **Login (15s)**:
-   > *"I'll log in as the Admin using JWT authentication."* (Click Auto-fill & Sign in).
-
-3. **Dashboard Overview (20s)**:
-   > *"The dashboard displays live operational stats: total employees, total tasks, and a breakdown of pending, in-progress, and completed tasks alongside a completion rate progress bar."*
-
-4. **Employee Operations (30s)**:
-   > *"Under Employees, we can view staff members and their active workloads. Let's add a new employee: 'Sara Designer' as UI/UX Lead."*
-
-5. **Task Creation & Assignment (30s)**:
-   > *"Now in Tasks, let's create a high-priority task 'Design Mobile App' and assign it directly to Sara."*
-
-6. **Live Status Workflow & Metrics Update (30s)**:
-   > *"Let's change the task status from Pending -> In Progress -> Completed. Notice how the status badge updates inline, and returning to the Dashboard shows our completion rate automatically increase!"*
-
-7. **Filters & Conclusion (15s)**:
-   > *"We can filter tasks by specific employees or statuses. All data is persisted in MongoDB via REST APIs."*
